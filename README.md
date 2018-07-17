@@ -20,13 +20,7 @@ To run the program simply download or clone the files, then load the index.html 
 
 ## Included Tests
 
-* Writing effective tests requires analyzing multiple aspects of an application including the HTML, CSS and JavaScript - an extremely important skill when changing teams or joining a new company.
-* Good tests give you the ability to quickly analyze whether new code breaks an existing feature within your codebase, without having to manually test all of the functionality.
-
-
-# How will I complete this project?
-
-Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
+The following tests are included in the program:
 
 * Make sure that the allFeeds variable has been defined and that it is not empty.
 * Loops through each feed in the allFeeds object and ensure it has a URL defined and that the URL is not empty.
